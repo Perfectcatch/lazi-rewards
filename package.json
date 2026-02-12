@@ -1,6 +1,6 @@
 {
   "name": "lazi-rewards",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Customer loyalty rewards platform for LIV Pools and Perfect Catch Electric",
   "private": true,
   "scripts": {
